@@ -28,6 +28,9 @@ The trained models and demo app are uploaded on Hugging Face:
 👉 [View on Hugging Face](https://huggingface.co/Bubbli/XLM-R-Sarcasm-MockPoliteness-Detection)  
 
 
+![App Screenshot](Screenshots/Screenshot%20-%20Confusion%20Matrix%20Page.png)
+
+
 ---
 
 ## 📌 Notes
