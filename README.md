@@ -39,14 +39,18 @@ The trained models and demo app are uploaded on Hugging Face:
 ## 📷 Screenshots
 
 Home Page
+
 ![App Screenshot](Screenshots/Screenshot%20-%20Home%20Page.png)
 
 File Upload Page
+
 ![App Screenshot](Screenshots/Screenshot%20-%20File%20Upload.png)
 
 Results Page
+
 ![App Screenshot](Screenshots/Screenshot%20-%20Results%20Page.png)
 
 Confusion Matrix Page
+
 ![App Screenshot](Screenshots/Screenshot%20-%20Confusion%20Matrix%20Page.png)
 
