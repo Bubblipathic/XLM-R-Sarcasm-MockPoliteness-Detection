@@ -27,13 +27,26 @@ The trained models and demo app are uploaded on Hugging Face:
 
 👉 [View on Hugging Face](https://huggingface.co/Bubbli/XLM-R-Sarcasm-MockPoliteness-Detection)  
 
-
-![App Screenshot](Screenshots/Screenshot%20-%20Confusion%20Matrix%20Page.png)
-
-
 ---
 
 ## 📌 Notes
 - This repo contains only the source code.  
 - Model weights (`.pt` files) and the executable (`.exe`) are too large to include here.  
-- Please visit the Hugging Face link for the **trained models and demo**.  
+- Please visit the Hugging Face link for the **trained models and demo**.
+
+---
+
+## 📷 Screenshots
+
+Home Page
+![App Screenshot](Screenshots/Screenshot%20-%20Home%20Page.png)
+
+File Upload Page
+![App Screenshot](Screenshots/Screenshot%20-%20File%20Upload.png)
+
+Results Page
+![App Screenshot](Screenshots/Screenshot%20-%20Results%20Page.png)
+
+Confusion Matrix Page
+![App Screenshot](Screenshots/Screenshot%20-%20Confusion%20Matrix%20Page.png)
+
